@@ -27,7 +27,7 @@ Our research employs three protocols to evaluate the trained network: Linear cla
 ### Linear classification
 A linear classification layer is added at the end of the model for evaluation. The output dimensions of this layer correspond to the number of classes in the evaluation dataset. During evaluation, only this linear layer is trained.
 <div align="center">
-  <img width="100%" alt="ViT networks utilized and their accuracy in multiclass classification." src=".github/Linear.png">
+  <img width="100%" alt="ViT networks utilized and their accuracy in multiclass classification." src="Linear.png">
 </div>
 
 
@@ -38,7 +38,7 @@ We employed k-NN classification with cosine similarity, which is particularly ef
 ### Self-attention visualization
 Representing the self-attention space for the CLS token from the last layer of a ViT-S/8 can provide fundamental insights into which parts of the input image are most effective for classification and segmentation. 
 <div align="center">
-  <img width="100%" alt="The self-attention maps of the CLS token in the ViT-S/8, revealing lesion regions in these images." src=".github/Representation Space.png">
+  <img width="100%" alt="The self-attention maps of the CLS token in the ViT-S/8, revealing lesion regions in these images." src="Representation Space.png">
 </div>
 
 
