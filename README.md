@@ -54,6 +54,4 @@ If you find this repository useful, please consider giving a star :star: and cit
   booktitle={arXiv preprint arXiv:2410.00779},
   year={2024}
 }
-```"# Local-to-Global-Self-Supervised-Representation-Learning-For-Diabetic-Retinopathy" 
-"# Local-to-Global-Self-Supervised-Representation-Learning-For-Diabetic-Retinopathy" 
-"# Local-to-Global-Self-Supervised-Representation-Learning-For-Diabetic-Retinopathy" 
+```
